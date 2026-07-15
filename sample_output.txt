@@ -1,0 +1,20 @@
+==========================================
+BYTE PAIR ENCODING (BPE) TOKENIZER OUTPUT
+==========================================
+
+Encoded: ['t', 'o', 'k', 'en', 'i', 'z', 'a', 'tion</w>']
+Decoded: tokenization
+
+Encoded: ['at', 't', 'en', 'tion</w>']
+Decoded: attention
+
+Encoded: ['m', 'a', 'ch', 'i', 'n', 'e</w>']
+Decoded: machine
+
+------------------------------------------
+
+Merge Rules Learned: 20
+
+Vocabulary Size: 40
+
+Tokenizer executed successfully.
